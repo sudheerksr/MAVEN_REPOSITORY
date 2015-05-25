@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="maven">
+	<test name="maven repsoitory">
+		<classes>
+			<class name="com.tesing.Test1"></class>
+		</classes>
+	</test>
+	<test name="maven repsoitory1">
+		<classes>
+			<class name="com.tesing.Test2"></class>
+		</classes>
+	</test>
+
+</suite>

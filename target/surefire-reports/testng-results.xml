@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="47" started-at="2015-05-25T08:10:32Z" finished-at="2015-05-25T08:10:33Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="47" started-at="2015-05-25T08:10:32Z" finished-at="2015-05-25T08:10:33Z">
+      <class name="com.tesing.Test1">
+        <test-method status="PASS" signature="chromedriver()[pri:0, instance:com.tesing.Test1@837a77]" name="chromedriver" duration-ms="16" started-at="2015-05-25T13:40:33Z" finished-at="2015-05-25T13:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromedriver -->
+        <test-method status="PASS" signature="firefoxdriver()[pri:0, instance:com.tesing.Test1@837a77]" name="firefoxdriver" duration-ms="0" started-at="2015-05-25T13:40:33Z" finished-at="2015-05-25T13:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefoxdriver -->
+        <test-method status="PASS" signature="iedriver()[pri:0, instance:com.tesing.Test1@837a77]" name="iedriver" duration-ms="0" started-at="2015-05-25T13:40:33Z" finished-at="2015-05-25T13:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iedriver -->
+      </class> <!-- com.tesing.Test1 -->
+      <class name="com.tesing.Test2">
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.tesing.Test2@1f97b55]" name="test2" duration-ms="0" started-at="2015-05-25T13:40:33Z" finished-at="2015-05-25T13:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.tesing.Test2@1f97b55]" name="test3" duration-ms="15" started-at="2015-05-25T13:40:33Z" finished-at="2015-05-25T13:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.tesing.Test2@1f97b55]" name="test4" duration-ms="0" started-at="2015-05-25T13:40:33Z" finished-at="2015-05-25T13:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:com.tesing.Test2@1f97b55]" name="test5" duration-ms="0" started-at="2015-05-25T13:40:33Z" finished-at="2015-05-25T13:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- com.tesing.Test2 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
